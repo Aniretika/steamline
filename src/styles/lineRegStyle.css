@@ -1,0 +1,17 @@
+/* .line-register-form
+{
+    padding: 20 px;
+    background-color: rgba(225, 165, 224, 0.2);
+} */
+.main-register-block
+{
+    height: 100%;
+    margin:0 auto;
+    padding:10px;
+    background-color: rgba(225, 165, 224, 0.2);
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
